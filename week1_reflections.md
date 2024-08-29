@@ -1,2 +1,2 @@
 ## Thoughts
-* To be added later
+On Wednesday (August 28, 2024), I reviewed object-oriented programming, along with some basic Python fundamentals. I tried creating a Pokemon class in Python, but there wasn't much I could add within the seven minute time limit. Then I tried using ChatGPT to create a Pokemon class, and it finished creating a class much faster than I could. Trying to tell ChatGPT what I wanted was a little difficult since I couldn't quite articulate my thoughts well, but it's something that will improve as I continue to learn.
